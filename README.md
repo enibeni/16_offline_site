@@ -1,6 +1,10 @@
 # New Site Template
 
-[TODO. There will be project description]
+Just another corporate site offline
+
+# Quickstart
+
+To see the site open index.html in your browser. Internet connection is not required.
 
 # Project Goals
 
